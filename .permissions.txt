@@ -1,0 +1,3 @@
+.permissions.txt 644
+file_explorer.exe 644
+main.cpp -rwx-r-x-r-x
